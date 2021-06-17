@@ -11,3 +11,18 @@ height_res=str(height)
 result ="Hi! My name is " +name + " " + last_name + " i'm " +age + " "+ "years old. Мой вес " \
          + weight_res + " кг, а рост  " + height_res + " см. Мой индекс массы тела равен " + bmi_res
 print(result)
+song = '''Baa, baa, black sheep,
+Have you any wool?
+Yes sir, yes sir,
+Three bags full
+ 
+One for the master,
+One for the dame,
+And one for the little boy
+Who lives down the lane
+ 
+Baa, baa, black sheep,
+Have you any wool?
+Yes sir, yes sir,
+Three bagqs full'''
+print(song)
